@@ -1,3 +1,3 @@
 # Docker
 
-Deployment it to Azure
+Deployment to Azure
